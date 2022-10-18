@@ -6,18 +6,24 @@ const Navbar = () => {
 		<nav>
 			<ul>
 				<li>
-					<Link to="/">
-						{/* logo */}
-					</Link>
+					<Link to="/">GNU/Linux Users Club</Link>
 				</li>
 				<li>
 					<Link to="/">Home</Link>
 				</li>
+
+				<li>
+					<Link to="/team">Team</Link>
+				</li>
+
 				<li>
 					<Link to="/about">About</Link>
 				</li>
 				<li>
 					<Link to="/contact">Contact</Link>
+				</li>
+				<li>
+					<Link to="/blogs">Blogs</Link>
 				</li>
 			</ul>
 		</nav>
