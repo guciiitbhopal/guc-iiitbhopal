@@ -1,5 +1,5 @@
 .header {
-    padding: 50px 0px 0px;
+    padding: 40px 0px 0px;
     display: flex;
     justify-content: space-between;
     align-items: center;  
@@ -20,3 +20,31 @@ font-family: 'Audiowide', cursive;;
     align-items: center;
   }
 
+.upperHalf {
+    font-size: 40px;
+    font-weight: 500;
+    /*text-transform: uppercase; ?*/
+  }
+
+.lowerHalf {
+font-size: 30px;
+font-weight: 300;
+text-transform: uppercase;
+}
+
+.menu-item{
+    color: var(--white);
+    font-size: 18px;
+    margin-left: 1vw;
+    text-decoration: none;
+    transition: all 0.4s ease;
+
+}
+.menu-item:hover{
+    color:rgb(139, 139, 139);
+    
+}
+li{
+list-style: none;
+text-decoration: none;
+}

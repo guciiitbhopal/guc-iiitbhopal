@@ -14,3 +14,8 @@ body{
     background-clip: text;
     -webkit-text-fill-color: transparent;
   }
+
+.max-width{
+    width:90%;
+    margin: auto;
+}

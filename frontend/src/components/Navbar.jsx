@@ -17,19 +17,19 @@ const Navbar = () => {
 					</div>
 					<div className="menu">
 						<li>
-							<Link to="/">Home</Link>
+							<Link to="/" className="menu-item">Home</Link>
 						</li>
 						<li>
-							<Link to="/team">Team</Link>
+							<Link to="/about" className="menu-item">About</Link>
 						</li>
 						<li>
-							<Link to="/about">About</Link>
+							<Link to="/team" className="menu-item">Team</Link>
 						</li>
 						<li>
-							<Link to="/contact">Contact</Link>
+							<Link to="/blogs" className="menu-item">Blogs</Link>
 						</li>
 						<li>
-							<Link to="/blogs">Blogs</Link>
+							<Link to="/contact" className="menu-item">Contact</Link>
 						</li>
 					</div>
 				</ul>
