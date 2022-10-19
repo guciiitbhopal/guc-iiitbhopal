@@ -1,0 +1,22 @@
+.header {
+    padding: 50px 0px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;  
+  }
+
+.logo {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+cursor: pointer;
+font-family: 'Audiowide', cursive;;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+

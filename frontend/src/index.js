@@ -8,6 +8,8 @@ import Navbar from "./components/Navbar";
 import Team from "./pages/Team";
 import Blogs from "./pages/Blogs";
 import Footer from "./components/Footer";
+import "./common/variables.css";
+import "./common/styles.css";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
