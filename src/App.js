@@ -9,7 +9,7 @@ import Team from "./pages/Team";
 
 const App = () => {
   return (
-    <div>
+    <div className="w-11/12 m-auto">
       <BrowserRouter>
         <Navbar />
         <Routes>
