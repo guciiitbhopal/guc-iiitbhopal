@@ -5,6 +5,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors:{
+        'twhite': '#EFEEFE'
+      },
       fontFamily:{
         'audiowide': ['audiowide', 'cursive'],
       },

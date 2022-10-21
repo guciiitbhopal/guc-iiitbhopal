@@ -6,6 +6,7 @@ import Blogs from "./pages/Blogs";
 import Contact from "./pages/Contact";
 import Home from "./pages/Home";
 import Team from "./pages/Team";
+import Events from "./pages/Events";
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
           <Route path="/contact" element={<Contact />} />
           <Route path="/team" element={<Team />} />
           <Route path="/blogs" element={<Blogs />} />
+          <Route path="/events" element={<Events />} />
         </Routes>
       </BrowserRouter>
     </div>
