@@ -7,6 +7,7 @@ const About = () => {
     <div>
       <div className="flex flex-col items-center md:flex-row ">
         <div className='ml-8'>
+        
           <img src={logolo} alt="/"  />
         </div>
         <div className="flex flex-col justify-center lg:items-start">

@@ -1,0 +1,10 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.blogcont{
+    font-size: 4rem;
+    width: 60%;
+    padding: 1.5rem;
+}
