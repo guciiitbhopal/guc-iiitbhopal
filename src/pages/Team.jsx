@@ -1,6 +1,6 @@
 import React from "react";
 import { TEAM_MEMEBERS } from "../data/teams";
-import TeamCard from "./TeamCard";
+import TeamCard from "../components/Cards/TeamCard";
 
 const Team = () => {
   return (
