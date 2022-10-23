@@ -9,9 +9,6 @@ module.exports = {
       },
       fontFamily: {
         audiowide: ["audiowide", "cursive"],
-        IBM: ['IBM Plex Sans Arabic', 'sans-serif'],
-        Montserrat: ['Montserrat', 'sans-serif'],
-        Sora:['Sora', 'sans-serif'],
       },
     },
   },

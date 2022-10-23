@@ -1,26 +1,9 @@
-import React from "react";
-import BlogCard from "../components/Cards/BlogCard";
-import BlogData from "../data/blog-data";
+import React from 'react'
 
 const Blogs = () => {
   return (
-    <div>
-      <div>
-        <div></div>
-        <div></div>
-      </div>
+    <div>Blogs</div>
+  )
+}
 
-      <div className="flex flex-wrap">
-        {BlogData.map(blog => (
-          <BlogCard
-          img={blog.img}
-          title={blog.title}
-          intro={blog.intro}
-          />
-        ))}
-      </div>
-    </div>
-  );
-};
-
-export default Blogs;
+export default Blogs
