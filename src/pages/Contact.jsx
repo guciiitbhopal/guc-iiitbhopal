@@ -4,7 +4,7 @@ import logo from "../assests/logo.png";
 const Contact = () => {
   return (
     <div className="lg:flex">
-      <div>
+      <div className="my-32 p-9 glsm">
         <h1 className="sm:mx-20 lg:mx-28 xl:mx-20 mx-12 sm:text-4xl text-2xl text-center sm:text-left py-5 pt-14 font-mono">Connect with us</h1>
         <div className="sm:flex sm:mx-9 mx-7 md:text-base text-sm">
           <ul className="mx-14 ">
@@ -50,8 +50,8 @@ const Contact = () => {
         </div>
       </div>
 
-      <div className>
-        <img className="w-96 sm:ml-20 ml-6 mb-16 " src={logo} alt="GUC-logo" />
+      <div>
+        <img className="sm:ml-48 sm:mt-10 ml-6 mb-16 sm:w-9/12 sm:h-9/12" src={logo} alt="GUC-logo" />
       </div>
     </div>
   );
