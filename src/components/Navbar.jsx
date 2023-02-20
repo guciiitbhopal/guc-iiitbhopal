@@ -35,23 +35,61 @@ const Navbar = () => {
           }
         >
           <ul className="flex flex-col items-center md:flex-row text-twhite list-none lg:ml-auto">
-            <li className=" lg:mx-4 flex text-sm hover:text-slate-400 transition-all duration-300">
-              <Link to="/">Home</Link>
+            <li className=" lg:mx-4 flex text-sm duration-300 parent num1 btn1">
+              <Link to="/" className="a">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                Home
+              </Link>
             </li>
-            <li className=" lg:mx-4 flex text-sm hover:text-slate-400 transition-all duration-300 ">
-              <Link to="/about">About</Link>
+            <li className=" lg:mx-4 flex text-sm  duration-300 parent num1 btn1">
+              <Link to="/about" className="a">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                About
+              </Link>
             </li>
-            <li className=" lg:mx-4 flex text-sm hover:text-slate-400 transition-all duration-300 ">
-              <Link to="/events">Events</Link>
+            <li className=" lg:mx-4 flex text-sm  duration-300 parent num1 btn1">
+              <Link to="/events" className="a">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>Events
+              </Link>
             </li>
-            <li className=" lg:mx-4 flex text-sm hover:text-slate-400 transition-all duration-300 ">
-              <Link to="/blogs">Blogs</Link>
+            <li className=" lg:mx-4 flex text-sm  duration-300 parent num1 btn1">
+              <Link to="/blogs" className="a">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>Blogs
+              </Link>
             </li>
-            <li className=" lg:mx-4 flex text-sm  hover:text-slate-400 transition-all duration-300">
-              <Link to="/team">Team</Link>
+            <li className=" lg:mx-4 flex text-sm   duration-300 parent num1 btn1">
+              <Link to="/team" className="a">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>Team
+              </Link>
             </li>
-            <li className=" lg:mx-4 flex  text-sm hover:text-slate-400 transition-all duration-300 border border-t-0 border-l-0 border-r-0 border-slate-600 md: border-none ">
-              <Link to="/contact">Contact</Link>
+            <li className=" lg:mx-4 flex  text-sm  duration-300 border border-t-0 border-l-0 border-r-0 border-slate-600 md: border-none parent num1 btn1">
+              <Link to="/contact" className="a">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>Contact
+              </Link>
             </li>
           </ul>
         </div>
