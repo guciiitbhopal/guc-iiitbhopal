@@ -1,19 +1,22 @@
 import React from "react";
+import { useEffect } from "react";
+import { useState } from "react";
 import { Link } from "react-router-dom";
 
 const Navbar = () => {
-  const [navbarOpen, setNavbarOpen] = React.useState(false);
+  const [navbarOpen, setNavbarOpen] = useState(false);
+
   return (
-    <nav className=" w-full ">
-      <div className="flex flex-col md:flex-row items-between mt-4 md:mt-12 ">
+    <nav className="w-11/12 border-b fixed border-slate-700 pb-4 backdrop-blur-sm z-10">
+      <div className="flex flex-col md:flex-row items-between mt-4 md:mt-12 backdrop-blur-sm">
         <div className=" flex  justify-between items-center ">
-          <div className="flex flex-col font-audiowide">
-            <li className=" flex text-md text-transparent mr-4 bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-600 sm:text-2xl md:text-3xl">
+          <div className="flex flex-col font-audiowide text-md text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-600 sm:text-2xl md:text-3xl ml-10">
+            {/* <li className=" flex text-md text-transparent mr-4 bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-600 sm:text-2xl md:text-3xl"> */}
               <Link to="/">GNU/Linux Users Club</Link>
-            </li>
+            {/* </li>
             <li className="flex text-sm leading-non text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-600 s sm:text-xl">
               <Link to="/">IIIT Bhopal</Link>
-            </li>
+            </li> */}
           </div>
           <button
             className={
@@ -34,9 +37,9 @@ const Navbar = () => {
             (navbarOpen ? " flex" : " hidden")
           }
         >
-          <ul className="flex flex-col items-center md:flex-row text-twhite list-none lg:ml-auto">
-            <li className=" lg:mx-4 flex text-sm duration-300 parent num1 btn1">
-              <Link to="/" className="a">
+          <ul className="flex flex-col items-center md:flex-row text-twhite list-none lg:ml-32">
+            <li className=" lg:mx-4 flex text-sm duration-300 parent num1 btn1 lg:ml-24">
+              <Link to="/" className="a ">
                 <span></span>
                 <span></span>
                 <span></span>
@@ -88,7 +91,8 @@ const Navbar = () => {
                 <span></span>
                 <span></span>
                 <span></span>
-                <span></span>Contact
+                <span></span>
+                Contact
               </Link>
             </li>
           </ul>

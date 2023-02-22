@@ -11,7 +11,7 @@ body {
 
 :root {
   font-size: 20px;
-  --mainColor: #0cebeb;
+  --mainColor: #0bcdf4d8;
 }
 
 /* navbar button style */
@@ -147,6 +147,14 @@ body {
 
 .btn1:hover {
   color: rgb(12, 235, 235);
+}
+
+.btn1:active {
+  color: rgb(12, 235, 235);
+}
+
+.btn1::-moz-selection{
+  text-decoration: line-through;
 }
 /* navbar button style end */
 
