@@ -11,8 +11,8 @@ const Team = () => {
         </span>
       </div>
       <div className="flex justify-around flex-wrap ">
-        {FOUNDING_MEMBERS.map((_member) => (
-          <TeamCard member={_member} />
+        {FOUNDING_MEMBERS.map((_member, index) => (
+          <TeamCard key={index} member={_member} />
         ))}
       </div>
       <div className="flex justify-center">
@@ -21,8 +21,8 @@ const Team = () => {
         </span>
       </div>
       <div className="flex justify-around flex-wrap ">
-        {PRESIDENTS.map((_member) => (
-          <TeamCard member={_member} />
+        {PRESIDENTS.map((_member, index) => (
+          <TeamCard key={index} member={_member} />
         ))}
       </div>
       <div className="flex justify-center">
@@ -31,11 +31,10 @@ const Team = () => {
         </span>
       </div>
       <div className="flex justify-around flex-wrap ">
-        {TEAM_MEMEBERS.map((_member) => (
-          <TeamCard member={_member} />
+        {TEAM_MEMEBERS.map((_member, index) => (
+          <TeamCard key={index} member={_member} />
         ))}
       </div>
-      
     </div>
   );
 };
