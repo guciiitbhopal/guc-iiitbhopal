@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+## $whoami
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 🐧 GNU/Linux Users Club IIIT Bhopal
 
-## Available Scripts
+<p> Welcome to Official Website of GUC IIIT Bhopal. Our goal is to promote open source culture at IIIT Bhopal, provide a platform for students to deepen their knowledge of the latest developer products, and create a peer-to-peer learning environment. </p>
 
-In the project directory, you can run:
+<img src="https://github.com/guciiitbhopal/guc-iiitbhopal/blob/main/public/logo.png" alt="guc-logo">
 
-### `npm start`
+### 🌸 Our Goals
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- To promote the use of open source software and open standards.
+- To provide a platform for students to learn and share knowledge about Linux and related technologies.
+- To organize hands-on workshops, seminars, and events related to Linux and open source software.
+- To help students develop skills and knowledge in the areas of DevOps, System Administration, Networking, and Programming.
+- To create a community of like-minded students who share a passion for Linux and open source software.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### :person tipping hand: How to Join
 
-### `npm test`
+<p> Any student who is interested in Linux and open source software is welcome to join our club. We are open to students from all disciplines and levels of experience. To join, simply attend one of our events or workshops or contact us via email or social media. </p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Contact Us
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- :email: Email: guciiitbhopal@gmail.com
+- :link: linktree: [Link Tree](https://linktr.ee/guciiitbhopal)
+- :bird: Twitter: [Twitter Profile](https://twitter.com/guciiitbhopal)
+- 👜 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/company/gnu-linux-users-club-iiit-bhopal/)
+- 📹 YouTube: [YouTube Channel](https://www.youtube.com/@guciiitbhopal6534/featured)
