@@ -1,13 +1,11 @@
 import React from 'react'
 
-import logolo from '../assests/logolo.png'
-
 const About = () => {
   return (
     <div>
       <div className="flex flex-col items-center md:flex-row">
         <div className='ml-8 mt-28'>
-          <img src={logolo} alt="/"  />
+          <img src="/Logo-Animation-Video.gif" alt="/"  />
         </div>
         <div className="flex flex-col justify-center items-center lg:items-start h-full w-full sm:w-7/12 px-6 pt-6 mt-28 glsm">
           <h1 className="twhite text-4xl font-semibold flex flex-col items-center sm:items-start "> 
