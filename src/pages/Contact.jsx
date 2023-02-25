@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "../assests/logo.png";
 
 const Contact = () => {
   return (
@@ -51,7 +50,7 @@ const Contact = () => {
       </div>
 
       <div>
-        <img className="sm:ml-48 sm:mt-10 ml-6 mb-16 sm:w-9/12 sm:h-9/12" src={logo} alt="GUC-logo" />
+        <img className="sm:ml-48 sm:mt-10 ml-6 mb-16 sm:w-9/12 sm:h-9/12" src="/Logo-Animation-Video.gif" alt="GUC-logo" />
       </div>
     </div>
   );

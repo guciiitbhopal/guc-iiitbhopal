@@ -25,7 +25,7 @@ const Home = () => {
         </div>
 
         <div className="md:justify-end items-center justify-start mt-40 lg:-translate-y-8 lg:translate-x-12 order-1 lg:order-2">
-          <img className="mb-24 lg:-translate-y-1" src="/logo.png" alt="logo" />
+          <img className="mb-24 lg:-translate-y-1" src="/Logo-Animation-Video.gif" alt="logo" />
         </div>
       </div>
     </div>
