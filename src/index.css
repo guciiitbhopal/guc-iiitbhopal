@@ -6,7 +6,6 @@ body {
   font-family: "Noto Sans", sans-serif;
   height: calc(100vh - 16px);
   box-sizing: border-box;
-  /* overflow: hidden; */
 }
 
 :root {
