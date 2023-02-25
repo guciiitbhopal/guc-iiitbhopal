@@ -15,8 +15,8 @@ function Blog() {
         <Button variant="contained">Read Blogs</Button>
         </div>
         <div className='blogimg '>
-        <img src={b1}/>
-        <img src={b2}/>
+        <img src={b1} alt="b1"/>
+        <img src={b2} alt="b2"/>
         </div>
     </div>
         <BlogCard blogsdata={blogsdata}/>
