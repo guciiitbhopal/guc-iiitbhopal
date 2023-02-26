@@ -14,7 +14,7 @@
 - To help students develop skills and knowledge in the areas of DevOps, System Administration, Networking, and Programming.
 - To create a community of like-minded students who share a passion for Linux and open source software.
 
-### :person tipping hand: How to Join
+### :tipping_hand_man: How to Join
 
 <p> All Students of IIIT Bhopal are by default members of our club .We are open to students from all disciplines and levels of experience. To join, simply attend one of our events or workshops or contact us via email or social media.Anyone who is interested in Linux and open source software is welcome to approach  us for discussions and collaborations. </p>
 
