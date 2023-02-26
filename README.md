@@ -4,8 +4,6 @@
 
 <p> Welcome to Official Website of GUC IIIT Bhopal. Our goal is to promote open source culture at IIIT Bhopal, provide a platform for students to deepen their knowledge of the latest developer products, and create a peer-to-peer learning environment. </p>
 
-<img src="https://github.com/guciiitbhopal/guc-iiitbhopal/blob/main/public/logo.png" alt="guc-logo">
-
 ### 🌸 Our Goals
 
 - To promote the use of open source software and open standards.
