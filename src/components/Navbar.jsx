@@ -6,8 +6,8 @@ const Navbar = () => {
   const [navbarOpen, setNavbarOpen] = useState(false);
 
   return (
-    <nav className="w-11/12 border-b fixed border-slate-700 pb-4 backdrop-blur-sm z-10">
-      <div className="flex flex-col md:flex-row items-between mt-4 md:mt-12 backdrop-blur-sm">
+    <nav className="w-11/12 border-b fixed border-slate-700 pb-4 backdrop-blur-md z-10">
+      <div className="flex flex-col md:flex-row items-between mt-4 md:mt-12">
         <div className=" flex  justify-between items-center ">
           <div className="flex flex-col font-audiowide text-md text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-600 sm:text-2xl md:text-3xl ml-10">
             {/* <li className=" flex text-md text-transparent mr-4 bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-600 sm:text-2xl md:text-3xl"> */}
