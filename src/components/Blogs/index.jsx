@@ -11,15 +11,15 @@ function Blog() {
    <>
     <div className='blog flex'>
         <div className='blogcont'>
-        <h1>Thoughts & ideas around the thing that actually matters.</h1>
-        <Button variant="contained">Read Blogs</Button>
+            <h1>Thoughts & ideas around the thing that actually matters.</h1>
+            <Button variant="contained">Read Blogs</Button>
         </div>
         <div className='blogimg '>
-        <img src={b1}/>
-        <img src={b2}/>
+            <img src={b1} alt='' />
+            <img src={b2} alt='' />
         </div>
     </div>
-        <BlogCard blogsdata={blogsdata}/>
+    <BlogCard blogsdata={blogsdata}/>
    </>
   )
 }
