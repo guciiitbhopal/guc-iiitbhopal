@@ -4,10 +4,10 @@ const About = () => {
   return (
     <div>
       <div className="flex flex-col items-center md:flex-row">
-        <div className='ml-8 mt-28'>
+        <div className='ml-8 mt-48'>
           <img src="/Logo-Animation-Video.gif" alt="/"  />
         </div>
-        <div className="flex flex-col justify-center items-center lg:items-start h-full w-full sm:w-7/12 px-6 pt-6 mt-28 glsm">
+        <div className="flex flex-col justify-center items-center lg:items-start h-full w-full sm:w-7/12 px-6 pt-6 mt-48 glsm">
           <h1 className="twhite text-4xl font-semibold flex flex-col items-center sm:items-start "> 
             <span className=" text-3xl sm:text-4xl">About us</span>
           </h1>
